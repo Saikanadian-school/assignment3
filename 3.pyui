@@ -1,0 +1,145 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {287, 40}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "size_textbox",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "B5318ED7-0C27-4C9C-B132-CBE06D9DBBBE",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "enter size large=6 extra large=10",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 54}, {287, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "size_textfield",
+          "frame" : "{{412, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "1CD7126A-B81D-4B14-AEB5-7D8B2015ABF9",
+          "alignment" : "left",
+          "text" : "",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 111}, {287, 94}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label2",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "25AAA34F-3218-410F-A77D-E91C6E200769",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "enter amout of toppings  one=1.00 two=1.75 three=2.50 four=3.25  please enter the cost of them",
+          "number_of_lines" : 5,
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 253}, {287, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "calculate_button_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "calculate",
+          "uuid" : "673DF326-A19E-4A92-AEFB-1854E89F92F2",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 213}, {287, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "topping_textfield",
+          "frame" : "{{412, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "0B8BBFC2-0B65-4178-9104-F3FED9397176",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 293}, {122, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "5549065F-2515-4922-B6EC-665543603CAC",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "total",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{143, 293}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "total",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "CC9EB34D-B8CA-40CB-94FA-580B768D7175",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
